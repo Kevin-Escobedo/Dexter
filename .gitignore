@@ -1,3 +1,6 @@
+# File that holds Discord secret token
+secret.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
